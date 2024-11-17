@@ -4,5 +4,10 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.4.6"
+  },
+  "dependencies": {
+    "matter-attractors": "^0.1.6",
+    "matter-js": "^0.20.0",
+    "matter-wrap": "^0.2.0"
   }
 }
